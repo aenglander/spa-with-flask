@@ -1,0 +1,3 @@
+.v?env
+/backend/static/*
+__pycache__
